@@ -1,0 +1,18 @@
+# Data — don't commit raw datasets
+training/*.xlsx
+training/*.csv
+training/*.xls
+
+# Model artifacts — baked into Docker at build time, not committed
+app/models/*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

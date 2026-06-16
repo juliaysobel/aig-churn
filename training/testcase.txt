@@ -1,0 +1,21 @@
+# Active Customer #12347:
+
+{
+  "recency": 29,
+  "frequency": 5,
+  "monetary": 2790.86,
+  "avg_order_value": 22.51,
+  "total_items": 1590,
+  "unique_products": 82
+}
+
+# Churned Customer #12350:
+
+{
+  "recency": 210,
+  "frequency": 1,
+  "monetary": 334.40,
+  "avg_order_value": 19.67,
+  "total_items": 197,
+  "unique_products": 17
+}
